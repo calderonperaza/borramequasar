@@ -4,6 +4,10 @@ descripcion de la app
 
 ## Install the dependencies
 Debe tener version de node 20.17.0
+y luego debes instalar en esa version de NODE, el quasar CLI
+
+yarn global add @quasar/cli
+
 
 ```bash
 yarn
